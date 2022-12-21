@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T11:06:43.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="clX1EecAjA000pihokcp" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-21T11:22:40.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6P75WZXamwdz3bFi_Mls" version="20.6.0" type="github" pages="2">
   <diagram id="kYMJOGTI5L7vSpKN66_F" name="‫עמוד-1‬">
     <mxGraphModel dx="3412" dy="2669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,6 +202,9 @@
             <mxPoint x="-405.71000000000004" y="1100" as="sourcePoint" />
             <mxPoint x="-405.80999999999995" y="1000" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TKmsxyck1I85paitETf2-3" value="&lt;div style=&quot;direction: rtl;&quot;&gt;העברה של תקציב&amp;nbsp; + אי מייל&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;האי מייל הוא המפתח&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;היחודי בטבלת היעד&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="-299.75" y="1130" width="259.75" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
