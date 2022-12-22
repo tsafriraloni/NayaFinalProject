@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T06:29:03.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zSuxNZuhkZfjP87EMqno" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-22T06:30:14.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="X4rbAaNXWDncFDDmUYOg" version="20.6.0" type="github" pages="2">
   <diagram id="kYMJOGTI5L7vSpKN66_F" name="מסלול שני">
     <mxGraphModel dx="3412" dy="2669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,10 +20,10 @@
           <mxGeometry x="-780" y="-670" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0IYagtgTSHQYPbbBhlTN-14" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="-210" y="-840" width="99.5" height="80" as="geometry" />
+          <mxGeometry x="-480" y="-540" width="130.53" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0IYagtgTSHQYPbbBhlTN-15" value="News API&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
-          <mxGeometry x="-150" y="-697.5" width="150" height="30" as="geometry" />
+        <mxCell id="0IYagtgTSHQYPbbBhlTN-15" value="News API&lt;br style=&quot;font-size: 31px;&quot;&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=31;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-530" y="-400" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0IYagtgTSHQYPbbBhlTN-17" value="Telegram &lt;br&gt;Bot" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
           <mxGeometry x="-593" y="1450" width="84.75" height="50" as="geometry" />
