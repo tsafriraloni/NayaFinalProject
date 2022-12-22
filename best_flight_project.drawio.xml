@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T06:34:47.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Mm3wNHR1mVUFzt1YO9Ag" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-22T06:35:05.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="RhbIM-HMLBhjLpZrvJcW" version="20.6.0" type="github" pages="2">
   <diagram id="kYMJOGTI5L7vSpKN66_F" name="מסלול שני">
     <mxGraphModel dx="3412" dy="2669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0IYagtgTSHQYPbbBhlTN-78" value="&lt;div style=&quot;direction: rtl;&quot;&gt;ביצוע JOIN בין כל&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;מקורות המידע&amp;nbsp;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
+        <mxCell id="0IYagtgTSHQYPbbBhlTN-78" value="&lt;div style=&quot;direction: rtl; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;ביצוע JOIN בין כל&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;direction: rtl; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;מקורות המידע&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
           <mxGeometry x="234.5" y="-260" width="275.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="0IYagtgTSHQYPbbBhlTN-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
