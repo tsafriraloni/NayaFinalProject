@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T06:07:28.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="i__aZeXYGxpvcu0BHJGV" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-22T06:10:24.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="405NXz9BdiRy1GXgaBvB" version="20.6.0" type="github" pages="2">
   <diagram id="kYMJOGTI5L7vSpKN66_F" name="‫עמוד-1‬">
     <mxGraphModel dx="3412" dy="2669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,7 +248,7 @@
           <mxGeometry x="270" y="130" width="150" height="77.89" as="geometry" />
         </mxCell>
         <mxCell id="KEWrIlqGxiub7TecXhwn-35" value="&lt;div style=&quot;direction: rtl;&quot;&gt;שליפת כלל הטיסות על פי תאריך יציאה ותאריך חזרה&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="KEWrIlqGxiub7TecXhwn-1" vertex="1">
-          <mxGeometry x="-290" y="-40" width="360" height="150" as="geometry" />
+          <mxGeometry x="-290" y="40" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KEWrIlqGxiub7TecXhwn-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KEWrIlqGxiub7TecXhwn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -282,6 +282,12 @@
         </mxCell>
         <mxCell id="KEWrIlqGxiub7TecXhwn-49" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="KEWrIlqGxiub7TecXhwn-1" vertex="1">
           <mxGeometry x="690" y="320" width="130" height="114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZGyHFEowXtPzNsy0_a7-0" value="&lt;div style=&quot;direction: rtl;&quot;&gt;דשבורדים של סטטיסטיקות על נתוני הטיסות&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="KEWrIlqGxiub7TecXhwn-1">
+          <mxGeometry x="1220" y="363.11" width="310" height="46.89" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZGyHFEowXtPzNsy0_a7-1" value="&lt;div style=&quot;direction: rtl;&quot;&gt;שליפת נתונים רלוונטיים&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;על פי צורך עסקי&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;ושליחה במייל&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="KEWrIlqGxiub7TecXhwn-1">
+          <mxGeometry x="1280" y="-140" width="180" height="80.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
